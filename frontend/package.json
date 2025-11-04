@@ -1,0 +1,11 @@
+{
+  "name": "chatbot-frontend",
+  "version": "1.0.0",
+  "description": "Simple chatbot frontend using OpenAI backend",
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
